@@ -271,11 +271,15 @@ The location is relative::
 
     .. image :: /logo.png
     .. image :: logo.png
+
+    .. image :: http://diagrams.net:8080/xapp-diagrams/poem/model/9/svg
     
 The former will look for an image in the root of the document tree, whereas the latter will look for an image in the current directory.
 
 Index Files
 ===========
+
+.. image:: http://diagrams.net:8080/xapp-diagrams/poem/model/9/svg
 
 Most files can map directly to a/b/c.rst == a.b.c pages. Some, however, would have conflicting filenames if placed on a case-sensitive filesystem. Consider the following 3 files::
 
