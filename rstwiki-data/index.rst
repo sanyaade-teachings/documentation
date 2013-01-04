@@ -47,10 +47,7 @@ In fact you write a widget which works in different scenarios and may look diffe
 Overview - of the XApp-Studio Implementation
 ============================================
 
-
-
-
-
+.. image :: frameworks.png
 
 The Basics
 ==========
