@@ -1,3 +1,6 @@
 [submodule "externals/rstwiki"]
 	path = externals/rstwiki
 	url = https://github.com/phiggins42/rstwiki.git
+[submodule "externals/js-doc-parse"]
+	path = externals/js-doc-parse
+	url = https://github.com/wkeese/js-doc-parse.git
