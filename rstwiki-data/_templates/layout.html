@@ -36,12 +36,9 @@
 {% endblock %}
 
 {%- block document %}
-    <div id="accessibilityNode">
-        <a href="#intro">Skip to Content</a> | <a href="#nav">Skip to Navigation</a>
-    </div>
     <hr class="hide">
     <div id="page" class="docPage">
-        <div id="header">
+        <!--div id="header">
             <div class="container">
                 <span id="logo"><a title="Home" href="http://dojotoolkit.org">
                     <img alt="Dojo Toolkit" src="{{ pathto('_static/images/logo.png', 1) }}"></a>
@@ -55,7 +52,7 @@
                     <li class="about"><a href="/blog/">Blog</a></li>
                 </ul>
             </div>
-        </div>
+        </div-->
     
         <hr class="hide" />
     
@@ -77,20 +74,20 @@
                     </div>
                     <div class="sidebar unit size1of4 lastUnit">
                         <h4>Reference Guide</h4>
-						<div id="dtkVersion">
+						<!--div id="dtkVersion">
 							<label for="refver">Dojo Version</label>
 							<select id="refver" name="refver">
 								<option value="1.6">1.6</option>
 								<option value="1.7">1.7</option>
 								<option value="1.8" selected="selected">1.8</option>
 							</select>
-						</div>
-                        <ul>
+						</div-->
+                        <!--ul>
                             <li><a href="{{ pathto("index") }}">Startpage</a></li>
                             <li><a href="{{ pathto("dojo/index") }}">Dojo</a></li>
                             <li><a href="{{ pathto("dijit/index") }}">Dijit</a></li>
                             <li><a href="{{ pathto("dojox/index") }}">DojoX</a></li>
-                        </ul>
+                        </ul-->
                         {{ sidebar() }}
                     </div>
                 </div>
@@ -100,7 +97,7 @@
         <div id="foot">
             <div class="innerBox">
                 <script type="text/javascript">document.write('<a href="https://docs.google.com/spreadsheet/viewform?hl=en_US&amp;formkey=dFlDcHEyaHMwbEd4MFBObkNrX0E1MFE6MQ&amp;entry_0=' + encodeURIComponent(window.location.href) + '">Error in the documentation? Can’t find what you are looking for? Let us know!</a>');</script>
-                <div class="footer">
+                <!--div class="footer">
                     {%- if hasdoc('copyright') %}
                       {% trans path=pathto('copyright'), copyright=copyright|e %}&copy; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}
                     {%- else %}
@@ -112,7 +109,7 @@
                     {%- if show_sphinx %}
                       {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}
                     {%- endif %}
-                </div>
+                </div-->
             </div>  
         </div>
         <script src="http://www.google.com/jsapi?key=ABQIAAAAbTW5DVaTIHKHQe5Q75sB0BSaOaO_TgJ5c3mtQFnk5JO2zD5dZBSGHlRJ8HAPlCQCEO_FxSmyNAHSLw" type="text/javascript"></script>
