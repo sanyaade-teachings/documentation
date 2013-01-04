@@ -47,7 +47,17 @@ In fact you write a widget which works in different scenarios and may look diffe
 Overview - of the XApp-Studio Implementation
 ============================================
 
+Summary :
+
+* Each client UI is being implemented with Dojo as full Ajax application.
+* Every server related tasks is implemented with JAVA, PHP or Node.JS, Groovy script or combinations of it.
+* Every plugin or extension is implemented the same way as above.
+* Every implementation is based on the OOP paradigm.
+
+
 .. image :: frameworks.png
+
+
 
 The Basics
 ==========
