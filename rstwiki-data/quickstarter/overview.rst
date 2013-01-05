@@ -1,4 +1,4 @@
-.. _quickstarter/sdk-overview:
+.. _quickstarter/overview:
 
 ==================================
 Extending XApp-Studio

@@ -18,7 +18,7 @@ Please find below various quick starter documents
 
 * :ref:`Extending XApp-Studio (Overview, Recommended !) <quickstarter/overview>`
 
-* :ref:`Plugins <quickstarter/plugins>`
+* :ref:`Plugins <quickstarter/overview>`
 * :ref:`Custom Apps <quickstarter/customapp>`
 * :ref:`XApp-Connect-Driver <quickstarter/xappconnect>`
 
