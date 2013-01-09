@@ -27,7 +27,6 @@ Plugins enable to extend all layers:
 - XApp-Studio
 - Mobile Application
 
-.. image :: http://www.mydiagram.org/xapp-diagrams/poem/model/23/svg
 
 When writing a plugin, XApp-Studio provides Javascript templates for each level which also contain a minimal sample code to get started.
 
