@@ -12,10 +12,14 @@ Requirements
 ------------
 * a XApp-Studio account (Free)
 * an application on xapp-studio.com
+
+Recommended links
+-----------------
+* :ref:`The file structure  of a XApp-Mobile application <basics/file-structure-xapp-app>`
 * Dojo Javascript basics :ref:`Find more about the basics here <basics/index>`
 
-Plugin-Types
-------------
+Overview
+--------
 
 There are 3 layers you CAN extend :
 
@@ -30,7 +34,9 @@ Each layer is built or inherited on each other :
 
 XApp-Studio provides a coding temlate for all layers.
 
+The tutorial
+------------
 
---------------
+
 
 Thanks for visiting. Go back to the :ref:`homepage <index>` if you want.

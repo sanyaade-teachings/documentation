@@ -72,3 +72,7 @@ Summary :
 
 .. image :: frameworks.png
 
+
+Wiki-Syntax
+===========
+* :ref:`Help <indexOri>`
