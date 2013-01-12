@@ -15,7 +15,7 @@ only difference is that each way comes with its own structures and templates.
 
 **`Custom Application`** is optimized for extending a mobile application only.
 
-**`XApp-Connect-Drivers`** are optimized to extend all layers, "Quick-XApp-Studio", "XApp-Studio" and "XApp-Mobile" for a new custom data source.
+**`Custom-XApp-Types`** are optimized to extend all layers, "Quick-XApp-Studio", "XApp-Studio" and "XApp-Mobile" for a new custom data source.
 
 Writing a Plugin
 ================
@@ -53,10 +53,18 @@ A custom application is perfect when you don't need to extend Quick-XApp or XApp
 Its being optimized for hooking into a mobile-application and change things to your needs.
 
 
-Writing a "XApp-Connect-Driver"
+Writing a "Custom-XApp-Types"
 ===============================
 
-This section is in progress.
+A "Custom-XApp-Type" enables to access new data sources. The smallest implementation of a custom can be
+single JSON file, fitting on a single page only.
+
+:ref:`Detailed Information <customTypes/overview>`
+
+
+
+
+
 
 
 Thanks for visiting. Go back to the :ref:`homepage <index>` if you want.
