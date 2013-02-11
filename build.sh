@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export PATH:$PATH:/opt/local/bin
+export PATH=$PATH:/opt/local/bin
 
 cp -f ./wiki.conf ./externals/rstwiki/
 
